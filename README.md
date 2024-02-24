@@ -15,7 +15,7 @@ This script will permanently delete all photos and videos from your iCloud accou
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/icloud-photo-deletion.git
+   git clone https://github.com/emanuelediluzio/deleteallphotosicloud
    ```
 2. Install the required libraries:
    ```
